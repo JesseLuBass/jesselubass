@@ -32,7 +32,7 @@ Therefore I prefer technologies that enable a lot of action.
 I appreciate feedback very much; it gives me a chance to look at myself in a new light and make myself better.
 
 ## How to reach me 
-- [linkedin/jesselubass](https://www.linkedin.com/in/jesselubass/)
+- [linkedin/jesselubass](https://www.linkedin.com/in/jesselumusic/)
 - [jesselu.ca](https://www.jesselu.ca)
 - [Send me an email](mailto:jesse.lu95@gmail.com)
 
