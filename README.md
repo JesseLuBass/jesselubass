@@ -7,7 +7,7 @@ This document is a HUG - a Human User Guide! It tells you a little about myself,
 I live in Vancouver, BC. I am an expectant father with my first child arriving in January next year. I used to be a professional double bassist and still play a lot. 
 I started my CS journey two years ago and have enjoyed every step of the process since then. I can be very outgoing and communicative due to my arts background, but I really appreciate my alone time. 
 
-## I believe in: 
+## I believe in 
 - Being prepared 
 - Being honest with yourself about how much work you've done 
 - Always have the humility to learn from any situation
