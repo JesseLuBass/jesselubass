@@ -8,10 +8,10 @@ I live in Vancouver, BC. I am an expectant father with my first child arriving i
 I started my CS journey two years ago and have enjoyed every step of the process since then. I can be very outgoing and communicative due to my arts background, but I really appreciate my alone time. 
 
 ## I believe in: 
-1. Being prepared 
-2. Being honest with yourself about how much work you've done 
-3. Always have the humility to learn from any situation
-4. Not giving up 
+- Being prepared 
+- Being honest with yourself about how much work you've done 
+- Always have the humility to learn from any situation
+- Not giving up 
 
 ## One-on-ones 
 I really like getting to know someone and finding common grounds. 
@@ -24,8 +24,17 @@ I think politeness is important and this encompasses many aspects of working tog
 - able to adjust and realign when challenged and criticized
 - There is always a constructive way to say something. Butting heads waste time and energy 
 
+## Technical Preferences 
+I think it is important to build/show something first and then make it better; it is hard to make meaningful progress when everything are based on ideas.
+Therefore I prefer technologies that enable a lot of action.
+
 ## Feedback 
 I appreciate feedback very much; it gives me a chance to look at myself in a new light and make myself better.
+
+## How to reach me 
+- [linkedin/jesselubass](https://www.linkedin.com/in/jesselubass/)
+- [jesselu.ca](https://www.jesselu.ca)
+- [Send me an email](mailto:jesse.lu95@gmail.com)
 
 
 
