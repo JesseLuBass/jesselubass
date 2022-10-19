@@ -14,7 +14,7 @@ I started my CS journey two years ago and have enjoyed every step of the process
 - Not giving up 
 
 ## One-on-ones 
-I really like getting to know someone and finding common grounds. 
+I really like getting to know someone and finding common ground. 
 I enjoy collaboration, even more so when both parties show up prepared. 
 
 ## Teamwork Preferences 
@@ -25,7 +25,7 @@ I think politeness is important and this encompasses many aspects of working tog
 - There is always a constructive way to say something. Butting heads waste time and energy 
 
 ## Technical Preferences 
-I think it is important to build/show something first and then make it better; it is hard to make meaningful progress when everything are based on ideas.
+I think it is important to build/show something first and then make it better; it is hard to make meaningful progress when everything is based on ideas.
 Therefore I prefer technologies that enable a lot of action.
 
 ## Feedback 
