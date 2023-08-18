@@ -2,29 +2,27 @@
 
 ## About Me 
 I am a software developer from Vancouver BC, Canada, where I live with my wife and daughter. 
-I like going down to kits beach and pacific spirit forest park with my family and friends, which are right in my neighborhood.
+I like going down to Kits beach and Pacific Spirit Forest Park with my family and friends, which are right in my neighborhood.
 I also work as a professional bassist with the Vancouver Symphony on the weekends. 
 
 ## ☕️ What motivates me
-- Mission-Driven Excellence: The belief that my work can create positive and meaningful impact drives me to contribute to projects that align with a greater purpose.
-- Continuous Growth: The opportunity to develop new skills and enhance existing ones fuels my enthusiasm to learn and adapt in the ever-evolving field of software development.
-- Innovation and Challenges: The prospect of solving unique and complex challenges excites me, pushing me to think creatively and develop innovative solutions.
-- Client-Centric Approach: Knowing that my work directly impacts clients and end-users motivates me to create tailored and impactful software solutions that meet their needs.
-
+- Projects aligned with a greater purpose where my work can create positive and meaningful impact.
+- The opportunity to develop new skills and enhance existing ones so that I can learn and adapt in the ever-evolving field of software development.
+- Solving unique and complex challenges that push me to think creatively and develop innovative solutions.
+- Knowing that my work directly impacts clients and end-users.
+  
 ##  One-on-ones 
-I really like getting to know someone and finding common ground. 
-I enjoy collaboration, even more so when both parties show up prepared. 
+I really like getting to know someone and finding common ground through 1-1 meetings. I enjoy collaboration, even more so when both parties show up prepared.
 
 ## 🙏 Who I work best with
-I think politeness is important and this encompasses many aspects of working together:
-- Being mindful of others' time and effort by coming prepared 
-- Willing to listen and learn the situation before speaking
-- Able to adjust and realign when challenged and criticized
-- There is always a constructive way to say something. Butting heads waste time and energy 
+Politeness is important for a successful workplace. To me, this looks like:
+- Being mindful of others' time and effort by coming prepared.
+- Having a willingness to listen and learn about a situation before speaking.
+- Adjusting and realigning perspectives when challenged and criticized.
+- Using a constructive tone when offering feedback. Butting heads wastes time and energy.
 
 ## 💻 Technical Preferences 
-I think it is important to build/show something first and then make it better; it is hard to make meaningful progress when everything is based on ideas.
-Therefore I prefer technologies that enable a lot of action.
+I think it is important to build/show something first and then make it better; it is hard to make meaningful progress when everything is based on an intangible idea. I prefer technologies that enable a lot of action.
 
 ## ☎️ How to reach me 
 - [linkedin/jesselubass](https://www.linkedin.com/in/jesselumusic/)
