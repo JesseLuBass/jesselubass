@@ -17,9 +17,9 @@ I enjoy collaboration, even more so when both parties show up prepared.
 
 ## 🙏 Who I work best with
 I think politeness is important and this encompasses many aspects of working together:
-- being mindful of others' time and effort by coming prepared 
-- willing to listen and learn the situation before speaking
-- able to adjust and realign when challenged and criticized
+- Being mindful of others' time and effort by coming prepared 
+- Willing to listen and learn the situation before speaking
+- Able to adjust and realign when challenged and criticized
 - There is always a constructive way to say something. Butting heads waste time and energy 
 
 ## 💻 Technical Preferences 
