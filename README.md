@@ -1,12 +1,9 @@
-### Hi there 👋
 
-## What is this?
-This document is a HUG - a Human User Guide! It tells you a little about myself, how to work with me, and what my likes and dislikes are.
 
 ## About Me 
-I live in Vancouver, BC. I am an expectant father with my first child arriving in January next year. I used to be a professional double bassist and still play a lot. 
-I started my CS journey two years ago and have enjoyed every step of the process since then. I can be very outgoing and communicative due to my arts background, but I really appreciate my alone time. 
-
+I am a software developer from Vancouver BC, Canada, where I live with my wife and daughter. 
+I like going down to kits beach and pacific spirit forest park with my family and friends, which are right in my neighborhood.
+I also work as a professional bassist with the Vancouver Symphony on the weekends. 
 ## I believe in 
 - Being prepared 
 - Being honest with yourself about how much work you've done 
