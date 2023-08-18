@@ -31,6 +31,8 @@ Therefore I prefer technologies that enable a lot of action.
 - [jesselu.ca](https://www.jesselu.ca)
 - [Send me an email](mailto:jesse.lu95@gmail.com)
 
+## ADO Contributions
+![image](https://github.com/JesseLuBass/jesselubass/assets/67474118/b5c6ddf8-aac6-4ccd-b6aa-604ab0ef33a4)
 
 
 <!--
