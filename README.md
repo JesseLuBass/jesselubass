@@ -11,7 +11,7 @@ I also work as a professional bassist with the Vancouver Symphony on the weekend
 - Innovation and Challenges: The prospect of solving unique and complex challenges excites me, pushing me to think creatively and develop innovative solutions.
 - Client-Centric Approach: Knowing that my work directly impacts clients and end-users motivates me to create tailored and impactful software solutions that meet their needs.
 
-## One-on-ones 
+##  One-on-ones 
 I really like getting to know someone and finding common ground. 
 I enjoy collaboration, even more so when both parties show up prepared. 
 
@@ -22,11 +22,11 @@ I think politeness is important and this encompasses many aspects of working tog
 - able to adjust and realign when challenged and criticized
 - There is always a constructive way to say something. Butting heads waste time and energy 
 
-## Technical Preferences 
+## 💻 Technical Preferences 
 I think it is important to build/show something first and then make it better; it is hard to make meaningful progress when everything is based on ideas.
 Therefore I prefer technologies that enable a lot of action.
 
-## How to reach me 
+## ☎️ How to reach me 
 - [linkedin/jesselubass](https://www.linkedin.com/in/jesselumusic/)
 - [jesselu.ca](https://www.jesselu.ca)
 - [Send me an email](mailto:jesse.lu95@gmail.com)
